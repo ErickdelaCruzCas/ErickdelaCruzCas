@@ -46,8 +46,7 @@ Java · Spring Boot · Reactor · Kafka · Redis · PostgreSQL · MongoDB · Doc
 <p>
   <img src="https://img.shields.io/badge/Project_Reactor-000000?style=for-the-badge&logo=reactivex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vert.x-782A90?style=for-the-badge&logo=eclipsevert.x&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threads_&_Concurrency-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hexagonal_Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java_Virtual_Threads-ED8B00?style=for-the-badge"/>
 </p>
 
 ---
@@ -85,6 +84,7 @@ Java · Spring Boot · Reactor · Kafka · Redis · PostgreSQL · MongoDB · Doc
   <img src="https://img.shields.io/badge/Event_Sourcing-5C6BC0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SAGA_Pattern-00897B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Repository_Pattern-546E7A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hexagonal_Architecture-000000?style=for-the-badge"/>
 </p>
 
 </div>
