@@ -2,10 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Erick!+👋;Backend+Engineer+💻;From+Valencia%2C+Spain+🇪🇸;Welcome+to+my+Profile!+✨" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi, I'm Erick 👋</h1>
-
 <p align="center">
-  <em>Backend Engineer · Java & Distributed Systems · Concurrency enthusiast</em>
+  <em>Backend Engineer · Java & Distributed Systems · High-throughput event pipelines</em>
 </p>
 
 <p align="center">
@@ -14,12 +12,8 @@
 
 ---
 
-### ✨ About me
-
-- 🔭 Working with **Java 21, Spring Boot 3 and reactive microservices**
-- 🧠 Interested in **fraud detection, data quality, and high-throughput systems**
-- ⚙️ I enjoy **concurrency, performance tuning and clean architectures**
-- 🚀 Goal: build **reliable, observable and testable backends** that can scale
+### Tech I use daily
+Java · Spring Boot · Reactor · Kafka · Redis · PostgreSQL · MongoDB · Docker · AWS
 
 ---
 <div align="center">
