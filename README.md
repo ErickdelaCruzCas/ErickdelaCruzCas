@@ -10,11 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=ErickdelaCruzCas&label=Profile%20views&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-### Tech I use daily
-Java · Spring Boot · Reactor · Kafka · Redis · PostgreSQL · MongoDB · Docker · AWS
-</p>
-
 <div align="center">
 
 ## 🛠 Tech Stack
