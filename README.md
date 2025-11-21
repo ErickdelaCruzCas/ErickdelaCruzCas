@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Maria+G!+👋;Full-stack+Developer+💻;From+Madrid%2C+Spain+🇪🇸;Welcome+to+my+Profile!+✨" alt="Typing SVG" />
+</div>
+
 <h1 align="center">Hi, I'm Erick 👋</h1>
 
 <p align="center">
@@ -74,7 +78,6 @@
     <img src="https://img.shields.io/badge/Hexagonal%20Architecture-000000?style=for-the-badge"/>
   </p>
 </div>
----
 
 ## 📊 GitHub Stats
 
