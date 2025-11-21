@@ -72,6 +72,21 @@ Java · Spring Boot · Reactor · Kafka · Redis · PostgreSQL · MongoDB · Doc
   <img src="https://img.shields.io/badge/Lombok-CA2C92?style=for-the-badge"/>
 </p>
 
+### 🔹 Design Patterns & Architecture Patterns
+<p>
+  <img src="https://img.shields.io/badge/Strategy_Pattern-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Builder_Pattern-6AA6E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rate_Limiter-8C3DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Circuit_Breaker-FE7A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bulkhead_Pattern-AD1457?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fan_In_&_Fan_Out-0A5F38?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Orchestrator_Pattern-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CQRS-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Event_Sourcing-5C6BC0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAGA_Pattern-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repository_Pattern-546E7A?style=for-the-badge"/>
+</p>
+
 </div>
 
 ## 📊 GitHub Stats
