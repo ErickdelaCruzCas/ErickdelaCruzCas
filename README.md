@@ -79,7 +79,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickdelaCruzCas&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
