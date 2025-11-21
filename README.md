@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <em>Backend Engineer · Java & Distributed Systems · High-throughput event pipelines</em>
+  <strong>Backend Engineer · Distributed Systems · Reactive Architectures</strong>
 </p>
 
 <p align="center">
