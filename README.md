@@ -3,7 +3,7 @@
 # 👋 Welcome to Erick de la Cruz's Profile!
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C026D3¢er=true&vCenter=true&width=250&lines=Senior%20Backend%20Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C026D3¢er=true&vCenter=true&width=275&lines=Senior%20Backend%20Developer" alt="Typing SVG" />
 </p>
 ## 💫 About Me
 
