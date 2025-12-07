@@ -14,7 +14,8 @@
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,go,rust,nodejs,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=docker,kafka,mongodb,aws&perline=4" />
 </p>
 
 ## 📊 Profile Stats
