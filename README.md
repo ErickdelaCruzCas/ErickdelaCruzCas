@@ -2,12 +2,11 @@
 
 # 👋 Welcome to Erick de la Cruz's Profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C026D3¢er=true&vCenter=true&width=435&lines=Senior%20Backend%20Developer%20with%208%2B%20years%20of%20experien;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C026D3¢er=true&vCenter=true&width=435&lines=Senior%20Backend%20Developer" alt="Typing SVG" />
 
 ## 💫 About Me
 
-🎯 **Senior Backend Developer with 8+ years of experience working with technologies like Java, GoLang, Rust, Node.js using frameworks such as Spring Ecosystem, Kafka, NestJS, Actix Web. on cloud platforms like AWS, Azure, Docker, Kubernetes, specialized in microservices, distributed systems, event-driven architectures, and high-concurrency backends, led the stabilization of a system overwhelmed by 16M Kafka operations, rebuilding reliability and validating data integrity end-to-end with zero loss, owned the performance validation of a high-traffic BFF modelling capacity and pod sizing to guarantee reliable operation for 40k users.**  
-💼 Developer at Kelea  
+🎯 **Senior Backend Developer with 8+ years of experience working with technologies like Java, GoLang, Rust and Node.js using frameworks such as Spring Ecosystem, NestJS and Actix Web and tecnologies as Kafka, MongoDB and PostrgeSQL on cloud platforms like AWS, Azure, Docker, Kubernetes, specialized in microservices, distributed systems, event-driven architectures, and high-concurrency backends. Led the stabilization of a system overwhelmed by 16M Kafka operations, rebuilding reliability and validating data integrity end-to-end with zero loss, owned the performance validation of a high-traffic BFF modelling capacity and pod sizing to guarantee reliable operation for 40k users.**  
 📍 Valencia, Spain  
 💡 Open to collaboration and new opportunities
 
