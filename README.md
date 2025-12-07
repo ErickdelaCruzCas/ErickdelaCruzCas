@@ -1,95 +1,33 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Erick!+👋;Backend+Engineer+💻;From+Valencia%2C+Spain+🇪🇸;Welcome+to+my+Profile!+✨" alt="Typing SVG" />
-</div>
+# Hi there 👋, I'm Erick de la Cruz
 
-<p align="center">
-  <strong>Backend Engineer · Distributed Systems · Reactive Architectures</strong>
-</p>
+Senior Backend Developer with 8+ years of experience working with technologies like Java, GoLang, Rust, Node.js using frameworks such as Spring Ecosystem, Kafka, NestJS, Actix Web. on cloud platforms like AWS, Azure, Docker, Kubernetes, specialized in microservices, distributed systems, event-driven architectures, and high-concurrency backends, led the stabilization of a system overwhelmed by 16M Kafka operations, rebuilding reliability and validating data integrity end-to-end with zero loss, owned the performance validation of a high-traffic BFF modelling capacity and pod sizing to guarantee reliable operation for 40k users.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ErickdelaCruzCas&label=Profile%20views&style=flat" alt="profile views" />
-</p>
+## 🚀 About Me
+- 🔭 I'm currently working at **Kelea** as a developer
+- 🌱 I'm continuously learning and improving my skills
+- 👯 I'm looking to collaborate on interesting projects
+- 💬 Ask me about Java, TSQL, Go
+- 📫 How to reach me: **erickdlcruzcas@gmail.com**
+- 📍 Located in: **Valencia, Spain**
 
-<div align="center">
+## 🛠️ Tech Stack
 
-## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logoColor=white)
+![TSQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-007ACC?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logoColor=white)
 
-### 🔹 Languages & Runtimes
-<p>
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
+## 📊 GitHub Stats
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickdelaCruzCas&theme=radical)
 
-### 🔹 Backend Frameworks & APIs
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/gRPC-00599C?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebClient-0C6C84?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MapStruct-005C97?style=for-the-badge"/>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ErickdelaCruzCas&theme=radical&no-frame=true&row=1&column=7)
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-de-la-cruz-castellano)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erickdlcruzcas@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ErickdelaCruzCas)
 
 ---
-
-### 🔹 Reactive, Concurrency & Distributed Systems
-<p>
-  <img src="https://img.shields.io/badge/Project_Reactor-000000?style=for-the-badge&logo=reactivex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vert.x-782A90?style=for-the-badge&logo=eclipsevert.x&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java_Virtual_Threads-ED8B00?style=for-the-badge"/>
-</p>
-
----
-
-### 🔹 Data, Storage & Messaging
-<p>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-### 🔹 Testing, Observability & Tooling
-<p>
-  <img src="https://img.shields.io/badge/Mockito-CE0E4F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WireMock-4B32C3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lombok-CA2C92?style=for-the-badge"/>
-</p>
-
-### 🔹 Design Patterns & Architecture Patterns
-<p>
-  <img src="https://img.shields.io/badge/Strategy_Pattern-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Builder_Pattern-6AA6E8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Rate_Limiter-8C3DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Circuit_Breaker-FE7A00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bulkhead_Pattern-AD1457?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fan_In_&_Fan_Out-0A5F38?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Orchestrator_Pattern-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CQRS-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Event_Sourcing-5C6BC0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAGA_Pattern-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Repository_Pattern-546E7A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hexagonal_Architecture-000000?style=for-the-badge"/>
-</p>
-
-</div>
-
-<div align="center">
-<h2>📊 GitHub Stats</h2>
-</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickdelaCruzCas&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img
+⭐️ From [ErickdelaCruzCas](https://github.com/ErickdelaCruzCas)
