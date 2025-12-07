@@ -1,33 +1,52 @@
-# Hi there 👋, I'm Erick de la Cruz
+<div align="center">
 
-Senior Backend Developer with 8+ years of experience working with technologies like Java, GoLang, Rust, Node.js using frameworks such as Spring Ecosystem, Kafka, NestJS, Actix Web. on cloud platforms like AWS, Azure, Docker, Kubernetes, specialized in microservices, distributed systems, event-driven architectures, and high-concurrency backends, led the stabilization of a system overwhelmed by 16M Kafka operations, rebuilding reliability and validating data integrity end-to-end with zero loss, owned the performance validation of a high-traffic BFF modelling capacity and pod sizing to guarantee reliable operation for 40k users.
+# 👋 Welcome to Erick de la Cruz's Profile!
 
-## 🚀 About Me
-- 🔭 I'm currently working at **Kelea** as a developer
-- 🌱 I'm continuously learning and improving my skills
-- 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about Java, TSQL, Go
-- 📫 How to reach me: **erickdlcruzcas@gmail.com**
-- 📍 Located in: **Valencia, Spain**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C026D3¢er=true&vCenter=true&width=435&lines=Senior%20Backend%20Developer%20with%208%2B%20years%20of%20experien;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-![Java](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logoColor=white)
-![TSQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-007ACC?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logoColor=white)
+🎯 **Senior Backend Developer with 8+ years of experience working with technologies like Java, GoLang, Rust, Node.js using frameworks such as Spring Ecosystem, Kafka, NestJS, Actix Web. on cloud platforms like AWS, Azure, Docker, Kubernetes, specialized in microservices, distributed systems, event-driven architectures, and high-concurrency backends, led the stabilization of a system overwhelmed by 16M Kafka operations, rebuilding reliability and validating data integrity end-to-end with zero loss, owned the performance validation of a high-traffic BFF modelling capacity and pod sizing to guarantee reliable operation for 40k users.**  
+💼 Developer at Kelea  
+📍 Valencia, Spain  
+💡 Open to collaboration and new opportunities
 
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickdelaCruzCas&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker,aws" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ErickdelaCruzCas&theme=radical&no-frame=true&row=1&column=7)
+## 📊 Profile Stats
 
-## 📫 Connect with me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickdelaCruzCas&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-de-la-cruz-castellano)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erickdlcruzcas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ErickdelaCruzCas)
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErickdelaCruzCas&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+</p>
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/eric-de-la-cruz-castellano">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:erickdlcruzcas@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ErickdelaCruzCas">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
-⭐️ From [ErickdelaCruzCas](https://github.com/ErickdelaCruzCas)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErickdelaCruzCas&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+</div>
