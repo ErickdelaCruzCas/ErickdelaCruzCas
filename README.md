@@ -7,7 +7,10 @@
 </p>
 ## 💫 About Me
 
-🎯 **Senior Backend Developer with 8+ years of experience working with technologies like Java, GoLang, Rust and Node.js using frameworks such as Spring Ecosystem, NestJS and Actix Web and tecnologies as Kafka, MongoDB and PostrgeSQL on cloud platforms like AWS, Azure, Docker, Kubernetes, specialized in microservices, distributed systems, event-driven architectures, and high-concurrency backends. Led the stabilization of a system overwhelmed by 16M Kafka operations, rebuilding reliability and validating data integrity end-to-end with zero loss, owned the performance validation of a high-traffic BFF modelling capacity and pod sizing to guarantee reliable operation for 40k users.**  
+🎯 **Senior Backend Developer with 8+ years of experience designing high-concurrency microservices and distributed systems. Strong background in Java, Go, and Node.js, event-driven architectures, and cloud-native platforms (AWS, GCP, Docker, Kubernetes). 
+🍃Built a concurrent Spring-based rules engine handling hundreds of simultaneous workflows, 
+🛠️ Developed a high-throughput Go Kafka consumer processing millions of events into MongoDB, and led large-scale.
+📈Load and stress testing of distributed services, supported by robust unit and integration testing to ensure production-grade reliability under peak concurrency.**  
 📍 Valencia, Spain  
 💡 Open to collaboration and new opportunities
 
