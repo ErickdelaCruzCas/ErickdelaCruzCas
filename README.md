@@ -8,7 +8,7 @@
 ## 💫 About Me
 
 🎯 **Senior Backend Developer with 8+ years of experience designing high-concurrency microservices and distributed systems. Strong background in Java, Go, and Node.js, event-driven architectures, and cloud-native platforms (AWS, GCP, Docker, Kubernetes). 
-🍃Built a concurrent Spring-based rules engine handling hundreds of simultaneous workflows, 
+🍃Built a concurrent Spring-based rules engine handling hundreds of simultaneous workflows. 
 🛠️ Developed a high-throughput Go Kafka consumer processing millions of events into MongoDB, and led large-scale.
 📈Load and stress testing of distributed services, supported by robust unit and integration testing to ensure production-grade reliability under peak concurrency.**  
 📍 Valencia, Spain  
