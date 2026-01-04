@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C026D3¢er=true&vCenter=true&width=285&lines=Senior%20Backend%20Developer" alt="Typing SVG" />
 </p>
-## 💫 About Me
+💫 About Me 💫
 
 Senior Backend Developer with over 8 years of experience working with technologies like Java, Go, Python, Node.js using frameworks such as Spring Ecosystem, FastAPI with focus on reliability and Testing on cloud platforms like GCP, Docker, Kubernetes, specialized in high-concurrency microservices and low latency event-driven architectures. 
 
