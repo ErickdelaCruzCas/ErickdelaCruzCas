@@ -7,16 +7,16 @@
 </p>
 ## 💫 About Me
 
-🎯 **Senior Backend Developer with over 8 years of experience working with technologies like Java, Go, Python, Node.js using frameworks such as Spring Ecosystem, FastAPI with focus on reliability and Testing on cloud platforms like GCP, Docker, Kubernetes, specialized in high-concurrency microservices and low latency event-driven architectures. 
+**Senior Backend Developer with over 8 years of experience working with technologies like Java, Go, Python, Node.js using frameworks such as Spring Ecosystem, FastAPI with focus on reliability and Testing on cloud platforms like GCP, Docker, Kubernetes, specialized in high-concurrency microservices and low latency event-driven architectures. 
 
-🍃Consolidating multiple legacy systems behind a unified backend-for-frontend.
+🍃Consolidating multiple legacy systems behind a unified backend-for-frontend.🍃
 
-🛠️Modernizing backend platforms by unifying fragmented systems.
+🛠️Modernizing backend platforms by unifying fragmented systems.🛠️
 
-📈Leading load and stress testing of microservices supporting 20k+ concurrent users.
+📈Leading load and stress testing of microservices supporting 20k+ concurrent users.📈L
 
-📍 Madrid, Spain  
-💡 Open to collaboration and new opportunities
+📍 Madrid, Spain 📍  
+💡 Open to collaboration and new opportunities 💡
 
 ## 🛠️ Tech Arsenal
 
