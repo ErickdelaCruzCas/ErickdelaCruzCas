@@ -31,12 +31,17 @@ Senior Backend Developer with over 8 years of experience working with technologi
 </p>
 
 
-🌱 Open Source
+<h2>🌱 Open Source</h2>
 
-Actively learning how to contribute to open-source projects:
-Reading issues and codebases
-Improving documentation and tests
-Submitting small, focused PRs
+<p>
+  Actively learning how to contribute to open-source projects:
+</p>
+
+<ul>
+  <li>Reading issues and existing codebases</li>
+  <li>Improving documentation and tests</li>
+  <li>Submitting small, focused pull requests</li>
+</ul>
 
 ## 🤝 Let's Connect!
 
