@@ -28,7 +28,6 @@ Senior Backend Developer with over 8 years of experience working with technologi
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickdelaCruzCas&theme=dracula&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=ErickdelaCruzCas&theme=dracula" alt="GitHub Streak" />
 </p>
 
 
