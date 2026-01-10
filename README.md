@@ -27,15 +27,15 @@ Senior Backend Developer with over 8 years of experience working with technologi
 ## 📊 Profile Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickdelaCruzCas&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ErickdelaCruzCas&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 🌱 Open Source
 
 Actively learning how to contribute to open-source projects:
-- Reading issues and codebases
-- Improving documentation and tests
-- Submitting small, focused PRs
+Reading issues and codebases
+Improving documentation and tests
+Submitting small, focused PRs
 
 ## 🤝 Let's Connect!
 
