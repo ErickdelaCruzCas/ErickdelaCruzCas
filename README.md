@@ -26,7 +26,7 @@ Senior Backend Developer with over 8 years of experience working with technologi
 
 ## 📊 Profile Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ErickdelaCruzCas)](https://git.io/streak-stats)
 
 🌱 Open Source
 
