@@ -32,11 +32,6 @@ Senior Backend Developer with over 8 years of experience working with technologi
 
 
 <h2>🌱 Open Source</h2>
-
-<p>
-  Actively learning how to contribute to open-source projects:
-</p>
-
 <p>
   Actively learning how to contribute to open-source projects:<br/><br/>
   • Reading issues and existing codebases<br/>
