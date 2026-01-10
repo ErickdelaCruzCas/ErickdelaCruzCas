@@ -21,7 +21,7 @@ Senior Backend Developer with over 8 years of experience working with technologi
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,kafka,java,go,spring,rust,nodejs,aws,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,kafka,java,go,spring,nodejs,aws,git&theme=dark" />
 </p>
 
 ## 📊 Profile Stats
@@ -30,11 +30,12 @@ Senior Backend Developer with over 8 years of experience working with technologi
   <img src="https://streak-stats.demolab.com?user=ErickdelaCruzCas&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-## 🏆 Achievements
+🌱 Open Source
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErickdelaCruzCas&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="Trophies" />
-</p>
+Actively learning how to contribute to open-source projects:
+- Reading issues and codebases
+- Improving documentation and tests
+- Submitting small, focused PRs
 
 ## 🤝 Let's Connect!
 
