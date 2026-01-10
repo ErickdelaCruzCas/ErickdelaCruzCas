@@ -27,13 +27,13 @@ Senior Backend Developer with over 8 years of experience working with technologi
 ## 📊 Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickdelaCruzCas&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ErickdelaCruzCas&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErickdelaCruzCas&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ErickdelaCruzCas&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="Trophies" />
 </p>
 
 ## 🤝 Let's Connect!
