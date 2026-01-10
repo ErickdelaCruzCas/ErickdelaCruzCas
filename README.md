@@ -13,7 +13,7 @@ Senior Backend Developer with over 8 years of experience working with technologi
 
 🛠️Modernizing backend platforms by unifying fragmented systems.🛠️
 
-📈Leading load and stress testing of microservices supporting 20k+ concurrent users.📈L
+📈Leading load and stress testing of microservices supporting 20k+ concurrent users.📈
 
 📍 Madrid, Spain 📍  
 💡 Open to collaboration and new opportunities 💡
