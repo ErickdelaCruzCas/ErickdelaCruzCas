@@ -15,7 +15,7 @@ Senior Backend Developer with over 8 years of experience working with technologi
 
 📈Leading load and stress testing of microservices supporting 20k+ concurrent users.📈
 
-📍 Madrid, Spain 📍  
+📍 Dublin, Ireland 📍  
 💡 Open to collaboration and new opportunities 💡
 
 ## 🛠️ Tech Arsenal
